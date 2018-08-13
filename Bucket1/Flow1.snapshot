@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "dataModelVersion" : "2"
+  },
+  "content" : {
+    "comments" : "",
+    "componentType" : "PROCESS_GROUP",
+    "connections" : [ ],
+    "controllerServices" : [ ],
+    "funnels" : [ ],
+    "identifier" : "ebbaa13b-4d4b-3a20-9c11-ae841bab8d5e",
+    "inputPorts" : [ ],
+    "labels" : [ ],
+    "name" : "Flow1",
+    "outputPorts" : [ ],
+    "position" : {
+      "x" : 738.8203409196678,
+      "y" : 191.12505535062954
+    },
+    "processGroups" : [ ],
+    "processors" : [ ],
+    "remoteProcessGroups" : [ ],
+    "variables" : { }
+  }
+}
